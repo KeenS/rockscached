@@ -1,0 +1,15 @@
+[package]
+name = "rockscached"
+version = "0.1.0"
+authors = ["Sunrin SHIMURA (keen) <3han5chou7@gmail.com>"]
+
+[dependencies]
+rocksdb = "0.8.2"
+chrono = "0.4.0"
+tokio-core = "0.1.12"
+tokio-proto = "0.1.1"
+tokio-io = "0.1.4"
+futures = "0.1.18"
+tokio-service = "0.1.0"
+bytes = "0.4.6"
+nom = "3.2.1"
